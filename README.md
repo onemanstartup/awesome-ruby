@@ -306,11 +306,6 @@
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails.
 * [Wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right.
 
-## Performance Monitoring
-
-* [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
-* [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
-* [TraceView](https://github.com/appneta/oboe-ruby) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
 
 ## Process Monitoring
 
@@ -324,22 +319,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
-
-## Profiler
-
-* [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
-* [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
-* [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
-* [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
-* [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
-
-## Queue
-
-* [active_job](https://github.com/rails/activejob) - Declare job classes that can be run by a variety of queueing backends.
-* [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database backed asynchronous priority queue.
-* [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
-* [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
-* [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
 
 ##  Rails Application Generators
 
