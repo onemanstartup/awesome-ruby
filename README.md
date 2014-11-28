@@ -333,20 +333,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
 
-## RSS
-
-* [Feed normalizer](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
-* [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
-* [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
-* [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
-
-## Scheduling
-
-* [Clockwork](https://github.com/tomykaira/clockwork) - Clockwork is a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates.
-* [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque.
-* [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs).
-* [Whenever](https://github.com/javan/whenever) - A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
-
 ## Scientific
 
 * Artificial intelligence
@@ -394,14 +380,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine.
 * [textacular](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named_scope methods making searching easy and fun!
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
-
-
-## Template Engine
-
-* [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
-* [Liquid](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps.
-* [Mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
-* [Slim](https://github.com/slim-template/slim) - A template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
 
 ## Testing
 
