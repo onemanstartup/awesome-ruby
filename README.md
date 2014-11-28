@@ -333,19 +333,11 @@
 * Sorting
   * [ActsAsList](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
   * [ranked-model](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
-* Tree
-  * [ActsAsTree](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
-  * [Ancestry](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern.
-  * [Awesome Nested Set](https://github.com/collectiveidea/awesome_nested_set) - Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
-  * [Closure Tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
-  * [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern.
 
 
 ## Pagination
 
-* [Kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 * [order_query](https://github.com/glebm/order_query) - A keyset pagination library to find the next or previous record(s) relative to the current one efficiently, e.g. for infinite scroll.
-* [will_paginate](https://github.com/mislav/will_paginate) - A pagination library that integrates with Ruby on Rails, Sinatra, Merb, DataMapper and Sequel.
 
 ## PDF
 
@@ -468,43 +460,13 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [textacular](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named_scope methods making searching easy and fun!
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
 
-## SEO
-
-* [FriendlyId](https://github.com/norman/friendly_id) - The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record.
-* [MetaTags](https://github.com/kpumuk/meta-tags) - A gem to make your Rails application SEO-friendly.
-* [SitemapGenerator](https://github.com/kjvarga/sitemap_generator) - A framework-agnostic XML Sitemap generator written in Ruby.
-
-## Social Networking
-
-* [Campo](https://github.com/chloerei/campo) - Campo is a lightweight forum application, base on Ruby on Rails.
-* [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network.
-* [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-* [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine.
-* [Social Shares](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
-
-## State Machines
-
-* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).
-* [FiniteMachine](https://github.com/peter-murach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
-* [simple_states](https://github.com/svenfuchs/simple_states) - A super-slim statemachine-like support library.
-* [Statesman](https://github.com/gocardless/statesman) - A statesmanlike state machine library.
-* [Workflow](https://github.com/geekq/workflow) - A finite-state-machine-inspired API for modeling and interacting with what we tend to refer to as 'workflow'.
-
-## Static Site Generation
-
-* [High Voltage](https://github.com/thoughtbot/high_voltage) - Easily include static pages in your Rails app.
-* [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs.
-* [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development.
-* [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
 
 ## Template Engine
 
 * [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
-* [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language.
 * [Liquid](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps.
 * [Mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 * [Slim](https://github.com/slim-template/slim) - A template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
-* [Tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines.
 
 ## Testing
 
@@ -584,19 +546,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes.
 * [Upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping.
 * [Wombat](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages.
-
-## Web Frameworks
-
-* [Camping](http://camping.io) - A web microframework which consistently stays at less than 4kB of code.
-* [Cuba](http://cuba.is) - A microframework for web development.
-* [Lotus](http://lotusrb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
-* [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
-* [Pakyow](http://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
-* [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
-* [Roda](http://roda.jeremyevans.net/) - A routing tree web framework.
-* [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
-* [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
-* [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
 
 ## WebSocket
 
