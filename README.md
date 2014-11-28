@@ -598,15 +598,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
 * [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
 
-## Web Servers
-
-* [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework.
-* [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
-* [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby.
-* [Rack](http://rack.github.io) - A common Ruby web server interface. By itself, it's just a specification and utility library, but all Ruby web servers implement this interface.
-* [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server.
-* [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix.
-
 ## WebSocket
 
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
