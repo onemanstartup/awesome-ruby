@@ -123,18 +123,6 @@
 
 * [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application.
 
-## DevOps Tools
-
-* [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-* [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby.
-* [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
-* [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
-* [Logstash](https://github.com/elasticsearch/logstash) - Logs/event transport, processing, management, search.
-* [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
-* [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
-* [Rubber](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
-* [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments.
-
 ## Documentation
 
 * [Annotate](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
