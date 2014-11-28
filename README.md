@@ -1,96 +1,3 @@
-# <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Ruby</a>
-
-A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
-
-Inspired by the `awesome-*` trend on GitHub.
-
-The goal is to build a categorized community-driven collection of very well-known resources.
-
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
-
-Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and wouldn't be possible without you!
-
-* [Awesome Ruby](#awesome-ruby)
-  * [Abstraction](#abstraction)
-  * [A/B Testing](#ab-testing)
-  * [Admin Interface](#admin-interface)
-  * [Analytics](#analytics)
-  * [API Builder](#api-builder)
-  * [Assets](#assets)
-  * [Authentication and OAuth](#authentication-and-oauth)
-  * [Authorization](#authorization)
-  * [Caching](#caching)
-  * [CLI Builder](#cli-builder)
-  * [CMS](#cms)
-  * [Code Analysis and Metrics](#code-analysis-and-metrics)
-  * [Coding Style Guides](#coding-style-guides)
-  * [Concurrency](#concurrency)
-  * [Configuration](#configuration)
-  * [Core Extensions](#core-extensions)
-  * [Country Data](#country-data)
-  * [Dashboards](#dashboards)
-  * [Data Visualization](#data-visualization)
-  * [Database Drivers](#database-drivers)
-  * [Database Tools](#database-tools)
-  * [Date and Time Processing](#date-and-time-processing)
-  * [Debugging Tools](#debugging-tools)
-  * [Decorators](#decorators)
-  * [DevOps Tools](#devops-tools)
-  * [Documentation](#documentation)
-  * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Ebook](#ebook)
-  * [Email](#email)
-  * [Environment Management](#environment-management)
-  * [Error Handling](#error-handling)
-  * [File Upload](#file-upload)
-  * [Form Builder](#form-builder)
-  * [Game Development](#game-development)
-  * [Geolocation](#geolocation)
-  * [Git Tools](#git-tools)
-  * [GUI](#gui)
-  * [HTML/XML Parsing](#htmlxml-parsing)
-  * [HTTP](#http)
-  * [Imagery](#imagery)
-  * [Internationalization](#internationalization)
-  * [Logging](#logging)
-  * [Machine Learning](#machine-learning)
-  * [Markdown Processors](#markdown-processors)
-  * [Misc](#misc)
-  * [Mobile Development](#mobile-development)
-  * [Money](#money)
-  * [Natural Language Processing](#natural-language-processing)
-  * [ORM/ODM](#ormodm)
-  * [ORM/ODM Extensions](#ormodm-extensions)
-  * [Package Management](#package-management)
-  * [Pagination](#pagination)
-  * [PDF](#pdf)
-  * [Performance Monitoring](#performance-monitoring)
-  * [Process Monitoring](#process-monitoring)
-  * [Processes and Threads](#processes-and-threads)
-  * [Profiler](#profiler)
-  * [Queue](#queue)
-  * [Rails Application Generators](#rails-application-generators)
-  * [Robotics](#robotics)
-  * [RSS](#rss)
-  * [Scheduling](#scheduling)
-  * [Scientific](#scientific)
-  * [Search](#search)
-  * [SEO](#seo)
-  * [Social Networking](#social-networking)
-  * [State Machines](#state-machines)
-  * [Static Site Generation](#static-site-generation)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Third-party APIs](#third-party-apis)
-  * [Video](#video)
-  * [Web Crawling](#web-crawling)
-  * [Web Frameworks](#web-frameworks)
-  * [Web Servers](#web-servers)
-  * [WebSocket](#websocket)
-* [Services and Apps](#services-and-apps)
-* [Resources](#resources)
-* [Other Awesome Lists](#other-awesome-lists)
-
 ## Abstraction
 
 * [ActiveInteraction](https://github.com/orgsync/active_interaction) - Manage application specific business logic.
@@ -158,9 +65,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [OAuth2](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
 
 ## Authorization
-
-* [Authority](https://github.com/nathanl/authority) - ORM-neutral way to authorize actions in your Rails app.
-* [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
 ## Caching
