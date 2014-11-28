@@ -181,18 +181,6 @@
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 
-## Environment Management
-
-* [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems.
-* [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC.
-* [fry](https://github.com/terlar/fry) - Simple ruby version manager for fish.
-* [gem_home](https://github.com/postmodern/gem_home) - A tool for changing your $GEM_HOME.
-* [rbenv](https://github.com/sstephenson/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
-* [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby.
-* [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby.
-* [RVM](https://rvm.io) - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
-* [Tokaido](https://github.com/tokaido/tokaidoapp/releases) - Ruby, Rails, SQLite and Redis encapsulated in a single drag-and-drop OS X app, designed to make installing a working RoR environment easy for beginners.
-
 ## Error Handling
 
 * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks).
@@ -230,21 +218,6 @@
 * [Geocoder](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
 * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
 
-## Git Tools
-
-* [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
-* [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
-* [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
-* [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
-* [hub](https://github.com/github/hub) - A command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier.
-* [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
-
-## GUI
-
-* [qtbindings](https://github.com/ryanmelt/qtbindings) - Allows the QT Gui toolkit to be used from Ruby.
-* [RubyGnome2](http://ruby-gnome2.sourceforge.jp/) - Ruby language bindings for the GNOME 2.0 development environment.
-* [Shoes](http://shoesrb.com) - Shoes makes building little graphical programs for Mac, Windows, and Linux super simple.
-
 ## HTML/XML Parsing
 
 * [HappyMapper](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri.
@@ -263,13 +236,6 @@
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
-
-## Imagery
-
-* [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line.
-* [PSD.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease.
-* [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
-* [Skeptick](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
 
 ## Internationalization
 
@@ -336,16 +302,6 @@
 
 * [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby.
 
-## ORM/ODM
-
-* [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
-* [DataMapper](https://github.com/datamapper/dm-core) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
-* [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB.
-* [Mongoid](https://github.com/mongoid/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
-* [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
-* [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
-* [ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
-* [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
 
 ## ORM/ODM Extensions
 
@@ -384,17 +340,6 @@
   * [Closure Tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
   * [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern.
 
-## Package Management
-
-* Gems
-  * [Bundler](http://bundler.io) - Manage your application's gem dependencies with less pain.
-  * [RubyGems](https://rubygems.org) - Community's gem hosting service.
-* Packages and Applications
-  * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
-  * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
-  * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-  * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-  * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X.
 
 ## Pagination
 
