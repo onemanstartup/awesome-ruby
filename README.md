@@ -279,23 +279,6 @@
 * [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 
-## Processes and Threads
-
-* [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
-Best suited for map-reduce or e.g. parallel downloads/uploads.
-* [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
-* [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
-* [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
-
-##  Rails Application Generators
-
- * [Bootstrappers](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
- * [Hobo](https://github.com/Hobo/hobo) - The web app builder for Rails.
- * [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
- * [RailsBricks](https://github.com/nicoschuele/railsbricks) - Boost your Rails development productivity.
- * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
- * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
-
 ## Robotics
 
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
