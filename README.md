@@ -119,32 +119,6 @@
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
 
-## Decorators
-
-* [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application.
-
-## Documentation
-
-* [Annotate](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
-* [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
-* [Asciidoctor](http://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
-* [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provider the ability to add documentation to a Rails application.
-* [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API.
-* [Inch](https://github.com/rrrene/inch) - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
-* [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
-* [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
-
-## E-Commerce and Payments
-
-* [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify.
-* [Payola](https://github.com/peterkeen/payola) - Drop-in Rails engine for accepting payments with Stripe.
-* [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
-* [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails.
-* [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
-* [Shoppe](http://tryshoppe.com) - A Rails-based e-commerce platform which allows you to easily introduce a catalogue-based store into your Rails 4 applications.
-* [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
-* [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
-
 ## Ebook
 
 * [Bookshop](https://github.com/blueheadpublishing/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
