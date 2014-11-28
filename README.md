@@ -58,19 +58,6 @@
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
 * [TTY](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients.
 
-## Code Analysis and Metrics
-
-* [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
-* [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
-* [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
-* [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
-* [MetricFu](https://github.com/metricfu/metric_fu) - A fist full of code metrics.
-* [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
-* [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
-* [Rubocop](https://github.com/bbatsov/rubocop) - A static code analyzer, based on the community Ruby style guide.
-* [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
-* [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
-
 ## Concurrency
 
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby.
