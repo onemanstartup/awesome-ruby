@@ -220,40 +220,6 @@
 * [ruby-band](https://github.com/arrigonialberto86/ruby-band) - Machine learning and data mining algorithms for JRuby.
 * [Ruby Datumbox Wrapper](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
 
-## Markdown Processors
-
-* [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
-* [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
-* [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
-
-## Misc
-
-* [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
-* [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
-* [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-* [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-* [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
-* [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files.
-* [play ►](https://github.com/play/play) - Your company's dj.
-* [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug).
-* [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
-* [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
-* [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
-* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
-* [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
-* [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
-
-## Mobile Development
-
-* [Deliver](https://github.com/KrauseFx/deliver) - Continuous Deployment for iOS. Deploy screenshots, app metadata and app updates to the App Store using just one command.
-* [Ruboto](http://ruboto.org) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
-* [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android (beta).
-
-## Money
-
-* [eu_central_bank](https://github.com/RubyMoney/eu_central_bank) - A gem that calculates the exchange rate using published rates from European Central Bank.
-* [Money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
-
 ## Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby.
