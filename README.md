@@ -7,11 +7,6 @@
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 
-##A/B Testing
-
-* [Split](https://github.com/andrew/split) - Rack Based AB testing framework.
-* [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
-
 ## Admin Interface
 
 * [ActiveAdmin](http://activeadmin.info) - A Ruby on Rails framework for creating elegant backends for website administration.
@@ -41,18 +36,6 @@
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby.
 
-## Assets
-
-* [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
-* [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
-* [Sass](http://sass-lang.com) - Sass makes CSS fun again.
-* Management:
-  * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
-  * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
-  * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
-* Development:
-  * [Quiet Assets](https://github.com/evrone/quiet_assets) - Mute assets pipeline log messages.
-
 ## Authentication and OAuth
 
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
@@ -63,9 +46,6 @@
 * OAuth:
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
   * [OAuth2](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
-
-## Authorization
-* [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
 ## Caching
 
@@ -83,15 +63,6 @@
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
 * [TTY](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients.
 
-## CMS
-* [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
-* [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) - A powerful Rails 4 CMS Engine.
-* [LocomotiveCMS](http://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
-* [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
-* [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
-* [Refinery CMS](http://refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4.
-* [Storytime](https://github.com/FlyoverWorks/storytime/) - Rails 4+ CMS and bloging engine, with a core focus on content.
-
 ## Code Analysis and Metrics
 
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
@@ -105,27 +76,11 @@
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 
-## Coding Style Guides
-
-* [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
-* [RSpec style guide](https://github.com/andreareginato/betterspecs) - Better Specs { rspec guidelines with ruby }.
-* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
-
 ## Concurrency
 
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby.
 * [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 * [EventMachine](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby.
-
-## Configuration
-
-* [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
-* [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
-* [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
-* [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
-* [Figaro](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
-* [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data.
-* [RailsConfig](https://github.com/railsconfig/rails_config) - Multi-environment yaml settings for Rails3.
 
 ## Core Extensions
 
@@ -157,25 +112,6 @@
 * [Rails Erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
 * [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
-## Database Drivers
-
-* [Cassandra Driver](https://github.com/datastax/ruby-driver) - A pure ruby driver for Apache Cassandra with asynchronous io and configurable load balancing, reconnection and retry policies.
-* [DataObjects](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
-* [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - MongoDB Ruby driver.
-* [moped](http://mongoid.org/en/moped/index.html) - A MongoDB driver for Ruby.
-* [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql).
-* [Redic](https://github.com/amakawa/redic) - Lightweight Redis Client.
-* [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface.
-* [ruby-pg](https://bitbucket.org/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
-* [SQLite3](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
-
-## Database Tools
-
-* [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
-* [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy.
-* [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
-* [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
-
 ## Date and Time Processing
 
 * [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days.
@@ -188,12 +124,6 @@
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
-
-## Debugging Tools
-
-* [Byebug](https://github.com/deivid-rodriguez/byebug) - A simple to use, feature rich debugger for Ruby 2.
-* [debugger](https://github.com/cldwalker/debugger) - A port of ruby-debug that works on 1.9.2 and 1.9.3.
-* [did_you_mean](https://github.com/yuki24/did_you_mean) - Adds class, method & attributute suggestions to error messages.
 
 ## Decorators
 
