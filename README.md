@@ -554,36 +554,3 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Rails Realtime](https://github.com/liamks/rails-realtime) - Adding Real-Time To Your RESTful Rails App.
 * [Sync](https://github.com/chrismccord/sync) - Real-time Rails Partials.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease, and also support streaming HTTP.
-
-# Services and Apps
-
-* [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
-* [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
-* [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
-* [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
-* [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
-* [GitLab](https://about.gitlab.com) -  Open source software to collaborate on code.
-* [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
-* [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
-* [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
-* [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
-* [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site.
-* [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
-* [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
-* [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
-
-# Resources
-
-* [GemBundle](http://www.gembundle.com) - A place to discover new Ruby Gems.
-* [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
-* [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
-* [Practicing Ruby](https://practicingruby.com) - Delightful lessons for dedicated programmers.
-* [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
-* [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community.
-* [RubyDaily](http://rubydaily.org) - Community driven news.
-* [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
-
-# Other Awesome Lists
-
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
